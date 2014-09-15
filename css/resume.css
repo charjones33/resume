@@ -18,7 +18,7 @@ h2 {
   color:#333399;
 }
 
-.skill:hover {
+.header:hover {
 	color: transparent;
 	text-shadow: 0 0 3px black;
 }
