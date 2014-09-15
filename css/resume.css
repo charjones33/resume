@@ -4,6 +4,11 @@ body {
   text-align: center;
 }
 
+body {
+    font-family: "Helvetica";
+}
+}
+
 ul {
   border:5px 20px;
   color:#19317A;
