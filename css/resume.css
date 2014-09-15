@@ -18,11 +18,11 @@ h2 {
   color:#333399;
 }
 
-.header:hover {
+.h1:hover {
 	color: transparent;
 	text-shadow: 0 0 3px black;
 }
 
-header {
+h1 {
 	color:#CC7A7A;
 }
