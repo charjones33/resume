@@ -2,18 +2,16 @@ body {
   background-color: #C6E2FF;
   margin: 0 20px;
   text-align: center;
-  ul {
-    list-style-position: inside;
-}
-}
-
-h2 {
-    font size"1cm"
 }
 
 ul {
   border:5px 20px;
   color:#19317A;
+}
+
+ul
+{
+    list-style-type: none;
 }
 
 h2 {
