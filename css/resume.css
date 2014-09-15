@@ -2,6 +2,9 @@ body {
   background-color: #C6E2FF;
   margin: 0 20px;
   text-align: center;
+  ul {
+    list-style-position: inside;
+}
 }
 
 h2 {
@@ -17,5 +20,4 @@ h2 {
   color:#333399;
 }
 
-{font face="verdana" color="green"}CHARLOTTE JONES RESUME{/font}
 
